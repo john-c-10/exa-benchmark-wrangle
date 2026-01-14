@@ -34,7 +34,7 @@ An open benchmark for evaluating people search. Test how well your search API fi
 | exa | 72.0% | 94.5% | 63.3% | 1399 |
 | brave | 44.4% | 77.9% | 30.2% | 1373 |
 | parallel | 20.8% | 74.7% | 26.9% | 1387 |
-| wrangle-fast-1.0 | 88.8% | 94.9% | 86.1 | 685 |
+| wrangle-fast-1.0 | 88.8% | 94.9% | 86.1 | 685 | 
 
 ## Installation
 
